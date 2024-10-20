@@ -1,1 +1,1 @@
-# Queues-M-M-1
+The objective of this project was to explore Markov Jump Processes and implement them in Python through simulations. We focused specifically on M/M/1 queueing systems, providing theoretical explanations alongside Python-based simulations. Additionally, we were required to develop and present an original proof from scratch, followed by a simulation to validate the results. The proof was expected to be entirely original and derived independently.

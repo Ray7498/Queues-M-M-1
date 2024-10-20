@@ -54,9 +54,6 @@ The key tasks involved:
 
 This project serves as a hands-on exploration of Markov Jump Processes through a practical implementation of the M/M/1 queueing system. By combining theory with simulation, the project offers a comprehensive understanding of the dynamics involved in this fundamental queueing model.
 
-## License
-
-This project is open-source and licensed under the MIT License.
 
 ---
 
